@@ -1,0 +1,10 @@
+/* imports */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+/* Custom Variables */
+:root {
+    --primary-font: 'Roboto', sans-serif;
+    --hot-pink: #FF214F;
+    --black:#1C1C1C;
+    --grey: #919191;
+    --white: #EBEBEB;
+}
